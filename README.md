@@ -27,8 +27,9 @@ The recommendation system follows these steps:
 1. Data preprocessing and cleaning
 2. Exploratory data analysis
 3. Feature standardization
-4. Nearest neighbor search using cosine similarity
+4. Nearest neighbor search using euclidean distance
 5. Visualization of song similarity using PCA
+6. Clustering the songs using K-means
 
 ## Example Recommendation
 Example: Recommendations for **90210 (feat. Kacy Hill) - Travis Scott, Kacy Hill**.
