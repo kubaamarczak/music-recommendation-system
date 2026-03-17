@@ -16,7 +16,7 @@ Each track is described by numerical attributes that capture musical characteris
 - tempo
 - valence
 
-The dataset used in this project is available on Kaggle: \
+The full dataset used in this project is available on Kaggle: \
 -> https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs/data
 
 To ensure reproducibility, a smaller sample of the dataset is included in the repository.
