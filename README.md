@@ -50,7 +50,7 @@ Recommended songs appear close to the input track in the reduced two-dimensional
 
 Visualization: Clustering Analysis \
 The clustering was done by utilizing the K-means algorithm. \
-It shows how songs are grouped without predefined genre labels by distinct audio features. \
+It shows how songs are grouped by distinct audio features without predefined genre labels. \
 ![Clustering Visualization](outputs/cluster_plot.png)
 
 ## Limitations
