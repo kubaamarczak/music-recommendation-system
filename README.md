@@ -64,6 +64,6 @@ Possible improvements include:
 - approximate nearest neighbor search
 
 
-For the full analysis see the notebook:
--> notebook/analysis.ipynb
+For the full analysis see the notebook: \
+-> [notebook/analysis.ipynb](https://github.com/kubaamarczak/music-recommendation-system/blob/main/notebooks/analysis.ipynb)
 
