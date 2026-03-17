@@ -1,11 +1,11 @@
 # Music Recommendation System
 
 ## Overview
-This project builds a content-based music recommendation system using Spotify audio features.
+This project builds a content-based music recommendation system using Spotify audio features. \
 The system identifies similar songs using nearest neighbor search in a standardized feature space.
 
 ## Dataset
-The dataset contains Spotify audio features for over one million songs.
+The dataset contains Spotify audio features for over one million songs. \
 Each track is described by numerical attributes that capture musical characteristics such as rhythm, energy and mood. For example:
 
 - danceability
@@ -16,7 +16,7 @@ Each track is described by numerical attributes that capture musical characteris
 - tempo
 - valence
 
-The dataset used in this project is available on Kaggle:
+The dataset used in this project is available on Kaggle: \
 -> https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs/data
 
 To ensure reproducibility, a smaller sample of the dataset is included in the repository.
@@ -42,18 +42,18 @@ Example: Recommendations for **90210 (feat. Kacy Hill) - Travis Scott, Kacy Hill
 | Nowhere – Chris Brown | 2017 |
 
 ## Visualization
-Visualization: Recommendation for **90210 (feat. Kacy Hill) - Travis Scott, Kacy Hill** in a PCA-Space.
-The PCA plot below shows how songs are distributed in the feature space.  
-Recommended songs appear close to the input track in the reduced two-dimensional representation.
+Visualization: Recommendation for **90210 (feat. Kacy Hill) - Travis Scott, Kacy Hill** in a PCA-Space. \
+The PCA plot below shows how songs are distributed in the feature space. \
+Recommended songs appear close to the input track in the reduced two-dimensional representation. \
 ![PCA Visualization](outputs/pca_plot.png)
 
-Visualization: Clustering Analysis
-The clustering was done by utilizing the K-means algorithm. 
-It shows how songs are grouped without predefined genre labels by distinct audio features.
+Visualization: Clustering Analysis \
+The clustering was done by utilizing the K-means algorithm. \
+It shows how songs are grouped without predefined genre labels by distinct audio features. \
 ![Clustering Visualization](outputs/cluster_plot.png)
 
 ## Limitations
-The recommender is purely content-based and relies only on audio features.
+The recommender is purely content-based and relies only on audio features. \
 It does not incorporate user listening history or collaborative filtering.
 
 ## Future Work
