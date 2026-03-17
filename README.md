@@ -32,7 +32,7 @@ The recommendation system follows these steps:
 6. Clustering the songs using K-means
 
 ## Example Recommendation
-Example: Recommendations for **90210 (feat. Kacy Hill) - Travis Scott, Kacy Hill**.
+Example: Recommendations for **90210 (feat. Kacy Hill) - Travis Scott, Kacy Hill**
 
 | Song | Year |
 |------|------|
